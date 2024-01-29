@@ -1,4 +1,4 @@
-# react-scheduler-firebase
+# WebApp agenda React/Firebase
 
 [**DEMO**](https://tim1023.github.io/react-scheduler-firebase/)
 ![Dashboard](https://github.com/Tim1023/react-scheduler-firebase/blob/gh-pages/screenshot.jpeg)
