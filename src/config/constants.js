@@ -3,12 +3,13 @@ import firebase from 'firebase';
 require('firebase/firestore');
 
 const config = {
-  apiKey: process.env.REACT_APP_FIREBASE_KEY,
-  authDomain: process.env.REACT_APP_AUTH_DOMAIN,
-  databaseURL: process.env.REACT_APP_DATABASE_URL,
-  projectId: process.env.REACT_APP_PROJECT_ID,
-  storageBucket: process.env.REACT_APP_STORAGE_BUCKET,
-  messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID
+  apiKey: "AIzaSyBhyqFqNG7hINT5hqFbXiDlE4GT9bS2Ig8",
+  authDomain: "ai-saas-3feea.firebaseapp.com",
+  databaseURL: "https://ai-saas-3feea-default-rtdb.firebaseio.com",
+  projectId: "ai-saas-3feea",
+  storageBucket: "ai-saas-3feea.appspot.com",
+  messagingSenderId: "342561513500",
+  appId: "1:342561513500:web:a7263647e425f6cdd83fd9"
 };
 
 firebase.initializeApp(config);
